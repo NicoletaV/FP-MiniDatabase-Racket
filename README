@@ -1,0 +1,8 @@
+/* VINA NICOLETA 325CD */
+
+	Baza de date este constituita dintr-o lista de tabele. Un tabel este
+reprezentat de o lista ce contine numele acestuia si apoi listele de coloane.
+O coloana este o lista cu numele acesteia, apoi valorile de la campul respectiv.
+	In cadrul implemetarii cerintelor am utilizat si transpunerea unui tabel,
+adica acesta a fost vazut ca o matrice, intrucat am avut nevoie de inregistrarile
+pe care le contine.
